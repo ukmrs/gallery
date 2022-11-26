@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+rnapkin guaniners -o guaniners
+
+rnapkin guaniners --mx --height 1000 -t bright -o guaninemx.png
+# rnapkin guaniners -a 180 --my --height 1000 -o guanine180my.png
+
+rnapkin guaniners -a 40 --height 1000 -o guanine40.png
+# rnapkin guaniners -a 220 --mx --my --height 1000 -o guanine220mxmy.png
